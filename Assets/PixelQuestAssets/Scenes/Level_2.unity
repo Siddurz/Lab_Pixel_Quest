@@ -637,7 +637,11 @@ Transform:
   m_GameObject: {fileID: 639174301}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.50527084, y: 0.26212835, z: -0.040822983}
+=======
+  m_LocalPosition: {x: -1.4832526, y: 0.2780583, z: -0.040822983}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3146,7 +3150,11 @@ Transform:
   m_GameObject: {fileID: 1977769891}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: -1.951207, y: -0.94395745, z: -0.040822983}
+=======
+  m_LocalPosition: {x: -1.5199999, y: -0.94395745, z: -0.040822983}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3367,12 +3375,20 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -10
+<<<<<<< Updated upstream
   m_Sprite: {fileID: 21300000, guid: d1e6f2f0ce3c5a64ea400cd6d3012d68, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 87fdc428ef6afc546ad396ddaa321797, type: 3}
+>>>>>>> Stashed changes
   m_Color: {r: 0.6179246, g: 0.9009299, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
+<<<<<<< Updated upstream
   m_Size: {x: 3, y: 1}
+=======
+  m_Size: {x: 7.4899697, y: 4.5430384}
+>>>>>>> Stashed changes
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3387,8 +3403,13 @@ Transform:
   m_GameObject: {fileID: 2109479239}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 1.7710707, y: 2.2597616, z: 9.959177}
   m_LocalScale: {x: 15, y: 12, z: 1}
+=======
+  m_LocalPosition: {x: -1.8, y: 0.89, z: 9.959177}
+  m_LocalScale: {x: 1.6875, y: 1.8374999, z: 1}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 980025633}
@@ -3460,7 +3481,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 860843202921256270, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
       propertyPath: m_LocalPosition.x
+<<<<<<< Updated upstream
       value: -1.951207
+=======
+      value: -1.52
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 860843202921256270, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
       propertyPath: m_LocalPosition.y
