@@ -10,6 +10,7 @@ public class PlayerJumping : MonoBehaviour
     public Transform ground;     // Where the collision will be checked for 
     public LayerMask groundMask; // The layer we're looking for 
     private bool waterCheck;     // Is the player touching water 
+    public bool groundCheck;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +22,7 @@ public class PlayerJumping : MonoBehaviour
     void Update()
     {
         // Checks if the player is touching any object who's layermask is called Ground
-        bool groundCheck = Physics2D.OverlapCapsule(ground.position, new Vector2(1, 0.08f), CapsuleDirection2D.Horizontal, 0, groundMask);
+         groundCheck = Physics2D.OverlapCapsule(ground.position, new Vector2(1, 0.08f), CapsuleDirection2D.Horizontal, 0, groundMask);
 
 
         // Checks if the player can jump
