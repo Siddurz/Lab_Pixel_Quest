@@ -110,7 +110,8 @@ public class PlayerStats : MonoBehaviour
             // Finish tag, dicates what happens after player touches a respawnpoint 
             case finishTag:
                 {
-                    // Gets the name of the next level from the end game object 
+                    // Gets the name of the next level from the end game object
+                    Debug.Log("next level!");
                     string nextLevel = collision.gameObject.GetComponent<GameEnd>().nextLevel;
                     // Loads us into that next level 
                     SceneManager.LoadScene(nextLevel);

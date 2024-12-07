@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PixelQuestAssets/Scenes/Leve_1 Redo.unity
     guid: d2179961b33ae5040bfb942949b978b5
+  - enabled: 1
+    path: Assets/PixelQuestAssets/Scenes/Level_2Redo.unity
+    guid: abb6a9170a6da934992127f73a1dbe55
   m_configObjects: {}
